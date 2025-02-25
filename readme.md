@@ -1,4 +1,4 @@
-Typesettercms.com is offline since 2024.  Here some of its plugins until it is back
+Typesettercms.com is offline since 2024.  Here some of its plugins, which have mostly been updated to function with php8
 
 *** If a single author does not agree, please open an issue !
 
